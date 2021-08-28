@@ -1,1 +1,8 @@
 esta es la primera línea del archivo.
+esta es la segunda línea.
+---
+---
+---
+---
+---
+---
